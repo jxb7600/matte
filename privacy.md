@@ -27,6 +27,10 @@ On iPhone and iPad, Matte asks for **add-only** access to your Photos library, a
 
 Photos often contain the location where they were taken. By default Matte **removes location data** from the photos it exports. You can turn this off with the **Remove Location** setting (in the Export sheet on iPhone and iPad, or the sidebar on Mac).
 
+## Capture info
+
+If you turn on **Capture info**, Matte reads each photo's camera settings (exposure, aperture, and ISO) from the photo itself and prints them, along with the file name, into the border of the exported image. This happens on your device. The caption never includes location, whatever the Remove Location setting is.
+
 ## Data stored on your device
 
 Matte remembers your settings (such as ratio, border, and color) so they're the same next time. On Mac it also remembers the last export folder you chose. This stays on your device and is removed if you delete the app.
