@@ -7,3 +7,4 @@ Matte puts your photos inside a clean border so they fit any shape — without c
 
 - [Privacy Policy](privacy)
 - [Support](support)
+- [Leave a tip](support#tips)

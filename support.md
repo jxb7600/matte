@@ -25,3 +25,7 @@ Tap the ✕ on the selected thumbnail, press and hold a thumbnail and choose **R
 
 **Can I keep the location in my photos?**
 Yes. Location is removed by default; turn off **Remove Location** (in the Export sheet on iPhone and iPad, or the sidebar on Mac) to keep it.
+
+## Tips
+
+Matte is free, and nothing is locked behind a purchase. If it's useful to you and you'd like to say thanks, you can [leave a tip on Ko-fi](https://ko-fi.com/jkbdev). Completely optional — thank you either way.

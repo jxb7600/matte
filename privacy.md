@@ -4,7 +4,7 @@ title: Privacy Policy
 permalink: /privacy
 ---
 
-_Effective September 27, 2026_
+_Effective November 11, 2026_
 
 Matte is designed so your photos never leave your device. This policy applies to Matte on iPhone, iPad, and Mac.
 
@@ -34,6 +34,10 @@ If you turn on **Capture info**, Matte reads each photo's camera settings (expos
 ## Data stored on your device
 
 Matte remembers your settings (such as ratio, border, and color) so they're the same next time. On Mac it also remembers the last export folder you chose. This stays on your device and is removed if you delete the app.
+
+## Tips on this website
+
+You can optionally leave a tip through Ko-fi, linked from this website. Tips are handled by Ko-fi and its payment providers (PayPal or Stripe) under their own privacy policies. We receive only what Ko-fi shares with creators, such as the name, message, and amount you choose to include. The Matte app itself has no tipping or payment features and still collects nothing.
 
 ## Children
 
