@@ -29,7 +29,7 @@ Photos often contain the location where they were taken. By default Matte **remo
 
 ## Capture info
 
-If you turn on **Capture info**, Matte reads each photo's camera settings (exposure, aperture, and ISO) from the photo itself and prints them, along with the file name, into the border of the exported image. This happens on your device. The caption never includes location, whatever the Remove Location setting is.
+If you turn on **Capture info**, Matte reads each photo's camera settings (exposure, aperture, and ISO) and camera make and model from the photo itself and prints them, along with the file name, into the border of the exported image. This happens on your device. The caption never includes location, whatever the Remove Location setting is.
 
 ## Data stored on your device
 
